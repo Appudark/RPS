@@ -1,7 +1,6 @@
 import random as r
 import sys, os
 
-
 class RPS:
 
   def __init__(self):
